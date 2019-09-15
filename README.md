@@ -75,3 +75,11 @@ $ brew services start grafana
 $ brew services stop grafana
 Stopping `grafana`... (might take a while)
 ```
+
+Grafana - Prometheus
+
+
+<img width=600 src="https://user-images.githubusercontent.com/44635266/64543276-e3e06a80-d35f-11e9-830c-bccf560aaa05.png">
+
+<img width=600 src="https://user-images.githubusercontent.com/44635266/64543275-e347d400-d35f-11e9-8a73-2899e1f4cad0.png">
+
